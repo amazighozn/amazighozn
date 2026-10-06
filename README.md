@@ -36,19 +36,6 @@ Je conçois des plateformes de données de bout en bout : de l'ingestion et l'ET
 
 ---
 
-## 🚀 Projets sélectionnés
-
-> 👉 Remplace les liens par tes dépôts. 3 à 6 projets épinglés valent mieux qu'une longue liste.
-
-| Projet | Description | Stack |
-|---|---|---|
-| **[nom-du-repo](https://github.com/amazighozn/nom-du-repo)** | Chat en langage naturel avec un data warehouse (text-to-SQL) dans un dashboard | Python · Dash · SQL · LLM |
-| **[nom-du-repo](https://github.com/amazighozn/nom-du-repo)** | Pipeline d'analyse d'images (OCR / extraction d'informations) | Python · OpenCV · OCR |
-| **[nom-du-repo](https://github.com/amazighozn/nom-du-repo)** | Plateforme BI : ETL → DWH → rapports Power BI | SQL Server · Power BI |
-| **[nom-du-repo](https://github.com/amazighozn/nom-du-repo)** | Génération de documents structurés par pipeline IA | Python · LLM |
-
----
-
 ## 🛠️ Stack
 
 **Langages** &nbsp;
